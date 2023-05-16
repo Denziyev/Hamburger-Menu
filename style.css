@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#svg2{
+    width: 40px;
+    margin-top: 15px;
+    margin-left: 20px;
+    
+    
+}
+#divv{
+   position: fixed;
+    left: -200px;
+    transition: 0.5s;
+}
+
+
+#card{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    row-gap: 10px;
+    width: 350px;
+    background-color: green;
+    height: 500px;
+    padding: 15px;
+    font-size: 25px;
+    padding-left: 20px;
+   /* left: -200px; */
+    
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    margin-left: 20px;
+}
+
+#div1{
+    display: flex;
+    justify-content: end;
+}
+
+#svg1{
+    width: 40px;
+    margin: 10px;
+
+}

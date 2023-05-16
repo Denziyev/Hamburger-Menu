@@ -11,9 +11,13 @@
     
     
 }
+
+#svg2:hover{
+    cursor: pointer;
+}
 #divv{
    position: fixed;
-    left: -200px;
+    left: -350px;
     transition: 0.5s;
 }
 
@@ -25,7 +29,7 @@
     row-gap: 10px;
     width: 350px;
     background-color: green;
-    height: 500px;
+    height: 100vh;
     padding: 15px;
     font-size: 25px;
     padding-left: 20px;
@@ -48,4 +52,8 @@ a{
     width: 40px;
     margin: 10px;
 
+}
+
+#svg1:hover{
+    cursor: pointer;
 }
